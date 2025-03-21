@@ -34,7 +34,7 @@ Gold Medal 2nd place, The 2017 CCPC Handzhou Regional Contest
 
 Gold Medal 7th place, The 2017 ICPC Asia Xi'an Regional Contest
 
-Power of Role Models, SJTU Outstanding Student (1\%), 2018
+Power of Role Models, SJTU Outstanding Student, 2018
 
 Zhiyuan Honorary Scholarship, Shanghai Jiao Tong University, 2017-2020
 
