@@ -42,8 +42,8 @@ Gold Medal 1st place, National Olympiad in Informatics (NOI) Invitation, 2016
 
 First Prize 1st place, National Olympiad in Informatics in Provinces (NOIP), 2016
 
-Gold Medal, Asia-Pacific Informatics Olympiad (APIO), 2015
+Gold Medal, Asia-Pacific Informatics Olympiad (APIO), 2016
 
-Gold Medal, China Team Selection Competition (CTSC), 2015
+Gold Medal, China Team Selection Competition (CTSC), 2016
 
-Gold Medal, National Olympiad in Informatics Winter Camp (NOIWC), 2015
+Gold Medal, National Olympiad in Informatics Winter Camp (NOIWC), 2016
