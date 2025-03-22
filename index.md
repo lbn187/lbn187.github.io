@@ -8,7 +8,13 @@ Prior to my Ph.D., I received my Bachelor’s degree of Science from Shanghai Ji
 
 # Research Interest
 
-My research interests focus on efficient equilibrium solvers for imperfect information games, especially poker. 
+My research interests focus on efficient artificial intelligence for imperfect information games, especially Texas Hold'em poker.
+
+# Recruitment for Interns
+
+I am happy to host remote/onsite graduate/undergraduate intern. I have **competitive Texas Hold'em Equilibrium Solver** as well as many interesting research topics.
+
+If you are interested in game theory, deep reinforcement learning or poker, please contact me (email: **li-bn22@mails.tsinghua.edu.cn**)!
 
 # Selected Publications
 
@@ -47,3 +53,9 @@ Gold Medal, Asia-Pacific Informatics Olympiad (APIO), 2016
 Gold Medal, China Team Selection Competition (CTSC), 2016
 
 Gold Medal, National Olympiad in Informatics Winter Camp (NOIWC), 2016
+
+# Research Intern Experience
+
+Microsoft Research Asia (Advisor: Dr. Yingce Xia), 07/2020 - 01/2021
+
+X-LANCE, Cross Media Language Intelligence Lab (Advisor: Prof. Kai Yu), 07/2019 - 06/2020
