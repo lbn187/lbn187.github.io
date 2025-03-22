@@ -2,7 +2,7 @@
 
 Hi! My name is Boning Li.
 
-I am a third-year Ph.D. student at Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University, where I am very fortunate to be advised by Prof. Longbo Huang.
+I am a third-year Ph.D. student at Institute for [Interdisciplinary Information Sciences (IIIS), Tsinghua University](https://iiis.tsinghua.edu.cn/en/), where I am very fortunate to be advised by [Prof. Longbo Huang](https://people.iiis.tsinghua.edu.cn/~huang/index.html).
 
 Prior to my Ph.D., I received my Bachelor’s degree of Science from Shanghai Jiao Tong University (ACM Class) in Computer Science.
 
@@ -20,27 +20,27 @@ If you are interested in game theory, deep reinforcement learning or poker, plea
 
 1. **Boning Li**, Longbo Huang, “Efficient Online Pruning and Abstraction for Imperfect Information Extensive-Form Games,” Proceedings of the Thirteenth International Conference on Learning Representations (ICLR), April 2025.
 2. **Boning Li**, Zhixuan Fang, Longbo Huang, “RL-CFR: Improving Action Abstraction for Imperfect Information Extensive-Form Games with Reinforcement Learning,” Proceedings of the Forty-first International Conference on Machine Learning (ICML), July 2024.
-3. **Boning Li**, Yingce Xia, Shufang Xie, Lijun Wu and Tao Qin, “Distance-Enhanced Graph Neural Network for Link Prediction,” in the Thirty-eight International Conference on Machine Learning (ICML) Workshop on Computational Biology, July 2021.
+3. **Boning Li**, Yingce Xia, Shufang Xie, Lijun Wu, Tao Qin, “Distance-Enhanced Graph Neural Network for Link Prediction,” in the Thirty-eight International Conference on Machine Learning (ICML) Workshop on Computational Biology, July 2021.
 
 # Selected Awards
 
-**42th ACM-ICPC World Finals Silver Medal** (8th place in the world), 2018
+**Silver Medal 8th place, 42th ACM-ICPC World Finals, 2018**
 
-Gold Medal 3rd place, The 2018 ICPC Asia Xuzhou Regional Contest
+Gold Medal 3rd place, ICPC Asia Xuzhou Regional Contest, 2018
 
-Gold Medal 2nd place, The 2018 CCPC Qinhuangdao Regional Contest
+Gold Medal 2nd place, CCPC Qinhuangdao Regional Contest, 2018
 
-Gold Medal 5th place, The 2017 ICPC Asia EC League Final Contest
+Power of Role Models, Shanghai Jiao Tong University Outstanding Student, 2018
 
-Gold Medal 3rd place, The 2017 CCPC Final Contest
+Gold Medal 5th place, ICPC Asia EC League Final Contest, 2017
 
-Gold Medal 2nd place, The 2017 ICPC Asia Beijing Regional Contest
+Gold Medal 3rd place, CCPC Final Contest, 2017
 
-Gold Medal 2nd place, The 2017 CCPC Handzhou Regional Contest
+Gold Medal 2nd place, ICPC Asia Beijing Regional Contest, 2017
 
-Gold Medal 7th place, The 2017 ICPC Asia Xi'an Regional Contest
+Gold Medal 2nd place, CCPC Hangzhou Regional Contest, 2017
 
-Power of Role Models, SJTU Outstanding Student, 2018
+Gold Medal 7th place, ICPC Asia Xi'an Regional Contest, 2017
 
 Zhiyuan Honorary Scholarship, Shanghai Jiao Tong University, 2017-2020
 
