@@ -1,14 +1,21 @@
 # About Me
 
-Hi! My name is Boning Li.
+Hi! My name is Boning Li (李泊宁 in Chinese).
 
-I am a third-year Ph.D. student at Institute for [Interdisciplinary Information Sciences (IIIS), Tsinghua University](https://iiis.tsinghua.edu.cn/en/), where I am very fortunate to be advised by [Prof. Longbo Huang](https://people.iiis.tsinghua.edu.cn/~huang/index.html).
+I am a fourth-year Ph.D. student at [Institute for Interdisciplinary Information Sciences (IIIS), Tsinghua University](https://iiis.tsinghua.edu.cn/en/), where I am very fortunate to be advised by [Prof. Longbo Huang](https://people.iiis.tsinghua.edu.cn/~huang/index.html).
 
 Prior to my Ph.D., I received my Bachelor’s degree of Science from Shanghai Jiao Tong University (ACM Class) in Computer Science.
 
 # Research Interest
 
-My research interests focus on efficient artificial intelligence for imperfect information games, especially Texas Hold'em poker.
+My research interests focus on efficient artificial intelligence for imperfect information games, especially Texas Hold'em poker. To achieve this, I primarily focus on:
+
+* Efficient multiplayer (9-max) poker AI
+* Efficient (5-card) PLO AI
+* Optimising betting sizes in no-limit Hold'em
+* Efficient AI for MTT beyond ICM
+
+I am very willing to engage in in-depth cooperation with individuals or institutions that can provide support for the above topics.
 
 # Recruitment for Interns
 
@@ -30,7 +37,7 @@ Gold Medal 3rd place, ICPC Asia Xuzhou Regional Contest, 2018
 
 Gold Medal 2nd place, CCPC Qinhuangdao Regional Contest, 2018
 
-Power of Role Models, Shanghai Jiao Tong University Outstanding Student, 2018
+Power of Role Models, Shanghai Jiao Tong University Outstanding Student (Top 0.1%), 2018
 
 Gold Medal 5th place, ICPC Asia EC League Final Contest, 2017
 
