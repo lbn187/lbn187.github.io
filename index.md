@@ -19,7 +19,12 @@ I am very willing to engage in in-depth cooperation with individuals or institut
 
 # Recruitment for Interns
 
-I am happy to host remote/onsite graduate/undergraduate intern. I have **competitive Texas Hold'em Equilibrium Solver** as well as many interesting research topics.
+I am happy to host remote/onsite graduate/undergraduate intern. The research topics are as follows:
+
+* Abstraction for Imperfect Information Games
+* Counterfactual Regret Minimization Parameter Tuning
+* Deep Counterfactual Regret Minimization
+* Look-ahead Search and Network Optimazation
 
 If you are interested in game theory, deep reinforcement learning or poker, please contact me (email: **li-bn22@mails.tsinghua.edu.cn**)!
 
