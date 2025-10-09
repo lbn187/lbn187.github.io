@@ -14,6 +14,7 @@ My research interests focus on efficient artificial intelligence for imperfect i
 * Efficient (5-card) PLO AI
 * Optimising betting sizes in no-limit Hold'em
 * Efficient AI for MTT beyond ICM
+* Reasoning AI for poker pro tutorial
 
 I am very willing to engage in in-depth cooperation with individuals or institutions that can provide support for the above topics (my email: **li-bn22@mails.tsinghua.edu.cn**).
 
@@ -22,6 +23,12 @@ I am very willing to engage in in-depth cooperation with individuals or institut
 1. **Boning Li**, Longbo Huang, “Efficient Online Pruning and Abstraction for Imperfect Information Extensive-Form Games,” Proceedings of the Thirteenth International Conference on Learning Representations (ICLR), April 2025.
 2. **Boning Li**, Zhixuan Fang, Longbo Huang, “RL-CFR: Improving Action Abstraction for Imperfect Information Extensive-Form Games with Reinforcement Learning,” Proceedings of the Forty-first International Conference on Machine Learning (ICML), July 2024.
 3. **Boning Li**, Yingce Xia, Shufang Xie, Lijun Wu, Tao Qin, “Distance-Enhanced Graph Neural Network for Link Prediction,” in the Thirty-eight International Conference on Machine Learning (ICML) Workshop on Computational Biology, July 2021.
+
+# Working Papers
+
+1. **Boning Li**, Longbo Huang. Ultra Efficient Depth-limited Solving framework for Imperfect Information Entensive-Form Games.
+
+2. **Boning Li**, Longbo Huang. 6-Max No-Limit Poker AI with Arbitrary Stacks.
 
 # Selected Awards
 
