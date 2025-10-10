@@ -26,9 +26,9 @@ I am very willing to engage in in-depth cooperation with individuals or institut
 
 # Working Papers
 
-1. **Boning Li**, Longbo Huang. Ultra Efficient Depth-limited Solving framework for Imperfect Information Entensive-Form Games.
+1. **Boning Li**, Longbo Huang. Ultra Efficient Search Framework for Imperfect Information Extensive-Form Games.
 
-2. **Boning Li**, Longbo Huang. 6-Max No-Limit Poker AI with Arbitrary Stacks.
+3. **Boning Li**, Longbo Huang. 6-Max No-Limit Poker AI with Arbitrary Stacks.
 
 # Selected Awards
 
