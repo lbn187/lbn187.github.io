@@ -10,9 +10,9 @@ Prior to my Ph.D., I received my Bachelor’s degree of Science from Shanghai Ji
 
 My research interests focus on scalable and efficient artificial intelligence for imperfect information games, especially Texas Hold'em poker. To achieve this, I primarily focus on:
 
-* Efficient multiplayer (9-max) poker AI (planning, CFR, self-play RL)
-* Efficient (5-card) PLO AI (abstraction, pruning)
-* Optimising betting sizes in no-limit Hold'em (action abstracion, deep RL)
+* Efficient multiplayer poker AI (planning, CFR, self-play RL)
+* Efficient PLO AI (abstraction, pruning)
+* Optimising betting sizes in poker (action abstracion, deep RL)
 * Efficient AI for MTT beyond ICM (deep MARL)
 * LLM for poker strategy (LLM agent, SFT) 
 
