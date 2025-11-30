@@ -8,15 +8,17 @@ Prior to my Ph.D., I received my Bachelor’s degree of Science from Shanghai Ji
 
 # Research Interest
 
-My research interests focus on efficient artificial intelligence for imperfect information games, especially Texas Hold'em poker. To achieve this, I primarily focus on:
+My research interests focus on scalable and efficient artificial intelligence for imperfect information games, especially Texas Hold'em poker. To achieve this, I primarily focus on:
 
-* Efficient multiplayer (9-max) poker AI
-* Efficient (5-card) PLO AI
-* Optimising betting sizes in no-limit Hold'em
-* Efficient AI for MTT beyond ICM
-* Reasoning AI for poker pro tutorial
+* Efficient multiplayer (9-max) poker AI (planning, CFR, self-play RL)
+* Efficient (5-card) PLO AI (abstraction, pruning)
+* Optimising betting sizes in no-limit Hold'em (action abstracion, deep RL)
+* Efficient AI for MTT beyond ICM (deep MARL)
+* LLM for poker strategy (LLM agent, SFT) 
 
 I am very willing to engage in in-depth cooperation with individuals or institutions that can provide support for the above topics (my email: **li-bn22@mails.tsinghua.edu.cn**).
+
+I am also seeking volunteers willing to participate in multiplayer poker AI testing.
 
 # Selected Publications
 
@@ -28,7 +30,7 @@ I am very willing to engage in in-depth cooperation with individuals or institut
 
 1. **Boning Li**, Longbo Huang. Ultra Efficient Search Framework for Imperfect Information Extensive-Form Games.
 
-3. **Boning Li**, Longbo Huang. 6-Max No-Limit Poker AI with Arbitrary Stacks.
+2. **Boning Li**, Longbo Huang. 6-Max No-Limit Poker AI with Arbitrary Initial Stacks.
 
 # Selected Awards
 
