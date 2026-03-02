@@ -28,9 +28,11 @@ I am also seeking volunteers willing to participate in multiplayer poker AI test
 
 # Working Papers
 
-1. **Boning Li**, Longbo Huang. Ultra Efficient Search Framework for Imperfect Information Extensive-Form Games.
+1. Ultra Efficient Search Framework for Imperfect Information Extensive-Form Games. (under review)
 
-2. **Boning Li**, Longbo Huang. 6-Max No-Limit Poker AI with Arbitrary Initial Stacks.
+2. LLM Distillation for Explainable Nash Equilibrium Play. (under review) 
+
+3. Expert-Level Artificial Intelligence in 6-Max No-Limit Poker with Arbitrary Settings.
 
 # Selected Awards
 
@@ -69,3 +71,8 @@ Gold Medal, National Olympiad in Informatics Winter Camp (NOIWC), 2016
 Microsoft Research Asia (Advisor: Dr. Yingce Xia), 07/2020 - 01/2021
 
 X-LANCE, Cross Media Language Intelligence Lab (Advisor: Prof. Kai Yu), 07/2019 - 06/2020
+
+
+# Academic Services
+
+Reviewer: NeuIPS, ICLR, ICML
