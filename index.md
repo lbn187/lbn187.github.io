@@ -18,7 +18,7 @@ My research interests focus on scalable and efficient artificial intelligence fo
 
 I am very willing to engage in in-depth cooperation with individuals or institutions that can provide support for the above topics (my email: **li-bn22@mails.tsinghua.edu.cn**).
 
-I am also seeking volunteers willing to participate in multiplayer poker AI testing.
+I am focus on multi-player no-limit hold'em AI. Our AI could handle arbitrary initial chip stacks, multiple rules, off-tree opponent actions, up to 6-player postflop situations (e.g. all players limp pot), and output full hand strategy within seconds. I am seeking volunteers willing to participate in multiplayer poker AI testing.
 
 # Selected Publications
 
